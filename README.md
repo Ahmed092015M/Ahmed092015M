@@ -2,7 +2,7 @@
 
 **Quantitative Analyst · Market & Portfolio Risk · Forecasting · Portfolio Construction**
 
-I'm a quantitative analyst based in France with over 10 years of experience in statistical modelling, risk analytics and machine learning. I hold an M.Sc. in Applied Mathematics (Financial Mathematics, Statistics & Data Science) from the University of Luxembourg and an M.Sc. in Operations Research & Optimization.
+I'm a quantitative analyst based in EU with over 8 years of experience in statistical modelling, risk analytics and machine learning. I hold a Postgraduation in Applied Mathematics (Financial Mathematics, Statistics & Data Science) from the University of Luxembourg and an M.Sc. in Operations Research, Optimization & Decision-Making.
 
 My work focuses on turning mathematical models into decision tools: volatility and risk models, forecasting pipelines, model validation, and robust portfolio construction.
 
