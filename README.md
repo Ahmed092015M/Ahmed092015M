@@ -1,4 +1,3 @@
---- # Ahmed Baahmed
 
 **Quantitative Analyst · Market & Portfolio Risk · Forecasting · Portfolio Construction**
 
