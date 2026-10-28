@@ -28,11 +28,9 @@ What I enjoy most is taking a model from an idea to something a team can actuall
 | Project | What it's about |
 |---|---|
 | Covariance Matrix Cleaning for Portfolio Construction (my thesis) | Comparing Mean-Variance, Hierarchical Risk Parity and Robust Optimization out of sample, with and without cleaning the covariance matrix |
-| VaR Backtest | Historical, normal and GARCH-based VaR on a multi-asset portfolio from 2020 to 2026, to see which one holds up |
-| Momentum & Value Test | Backtesting momentum and value signals across stocks |
-| Covariance & Min-Variance | Different covariance estimators and the minimum-variance portfolios they give |
-| Multi-Factor Portfolio | Building a factor model and attributing portfolio returns |
-| Multi-Strategy Risk Budget | Splitting risk across several strategies |
+| Multivariate Volatility and Dynamic Correlations | EWMA, CCC and DCC covariance models on SPY, TLT and GLD. Tracks how the stock-bond correlation moved (mostly negative from 2000 to 2020, positive in 2022) and compares which covariance model gives the best-backtesting portfolio VaR |
+| Extreme Value Theory for Tail Risk | Hill tail index and peaks-over-threshold GPD fits on S&P 500 data back to 1928, with 99.9% VaR and ES compared against normal and Student-t. Then EVT on GARCH-standardized residuals (McNeil-Frey) with a backtest |
+| Options Portfolio VaR: Delta-Normal vs. Delta-Gamma vs. Monte Carlo | A book of SPX options (long straddle, short puts, call spread) priced with Black-Scholes, using VIX as implied vol. Compares the three VaR methods, shows how delta-normal underestimates risk on non-linear positions, and simulates the underlying with GARCH instead of constant volatility |
 
 I'm still publishing these repositories and will add the links here as they go up.
 
