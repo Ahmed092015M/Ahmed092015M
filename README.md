@@ -2,7 +2,7 @@
 
 Quantitative analyst working on portfolio risk, quantitative research and forecasting.
 
-I live in Luxembourg and have been building statistical and quantitative models for more than 12 years, first for financial institutions and energy companies, then in data science and quantitative finance. I studied applied mathematics twice: a postgraduate degree in Probability, Stochastic Analysis and Finance at the University of Luxembourg, and an M.Sc. in Operations Research and Optimization in Algeria.
+I live in Luxembourg and have been building statistical and quantitative models for more than 12 years, first for financial institutions and energy companies, then in data science and quantitative finance. With a post-graduation in applied mathematics: a postgraduate degree in Probability, Stochastic Analysis and Finance at the University of Luxembourg, and an M.Sc. in Operations Research, Optimization and Decision Making.
 
 What I enjoy most is taking a model from an idea to something a team can actually use to make decisions, whether that's a VaR model, a trading signal or a price forecast.
 
